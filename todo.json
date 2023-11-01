@@ -1,0 +1,14 @@
+[
+    {
+        "task": "dinner",
+        "completed": true
+    },
+    {
+        "task": "lunch",
+        "completed": false
+    },
+    {
+        "task": "homework",
+        "completed": true
+    }
+]
